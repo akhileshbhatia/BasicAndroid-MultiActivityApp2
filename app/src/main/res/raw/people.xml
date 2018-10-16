@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="people.xsd" generated="2011-11-05T23:09:59">
+
+    <person>
+        <name>Sabin Tabirca</name>
+        <address>WGB 1.81, UCC, Cokr</address>
+        <phone>111111111</phone>
+        <image>sabin.jpg</image>
+        <url>http://www.cs.ucc.ie/~stabirca</url>
+    </person>
+
+    <person>
+        <name>Sabina Tabirca</name>
+        <address>CUH 1.81, UCC, Cokr</address>
+        <phone>222222222</phone>
+        <image>ab1.jpg</image>
+        <url>http://www.ucc.ie/</url>
+    </person>
+
+    <person>
+        <name>Saby Tabirca</name>
+        <address>WGB G26, UCC, Cork</address>
+        <phone>333333333</phone>
+        <image>ab2.jpg</image>
+        <url>http://www.google.com</url>
+    </person>
+
+</dataroot>
